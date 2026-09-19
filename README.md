@@ -1,6 +1,6 @@
 # AI Agent Project
 
-A toy AI agent built in Python for the Boot.dev course.
+A toy AI agent built in Python from the Boot.dev course.
 
 ## What it does
 - Uses an LLM to assist with code tasks
